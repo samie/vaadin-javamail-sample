@@ -7,11 +7,11 @@ Simple Vaadin application. This project demonstrates:
 
 ### Running the example:
 
-Make sure you have installed [Maven](http://maven.apache.org/) and [Git](http://git-scm.com/) and WildFly application server running on localhost.
+Make sure you have installed [Maven](http://maven.apache.org/) and [Git](http://git-scm.com/) and WildFly application server (or some other Java EE 7 server) running on localhost.
 
     git clone https://github.com/samie/vaadin-error-mailer-sample.git
     cd error-mailer
-    mvn wildfly:run
+    mvn wildfly:deploy
     
 After these steps you have the application up and running at http://localhost:8080/error-mailer
 
