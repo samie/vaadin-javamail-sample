@@ -1,4 +1,4 @@
-vaadin-error-mailer-sample
+vaadin-javamail-sample
 ===========
 
 Simple Vaadin application. This project demonstrates:
