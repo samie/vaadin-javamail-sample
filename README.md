@@ -10,10 +10,10 @@ Simple Vaadin application. This project demonstrates:
 Make sure you have installed [Maven](http://maven.apache.org/) and [Git](http://git-scm.com/) and WildFly application server (or some other Java EE 7 server) running on localhost.
 
     git clone https://github.com/samie/vaadin-error-mailer-sample.git
-    cd error-mailer
+    cd vaadin-error-mailer-sample
     mvn wildfly:deploy
     
-After these steps you have the application up and running at http://localhost:8080/error-mailer
+After these steps you have the application up and running at http://localhost:8080/vaadin-error-mailer-sample-1.0-SNAPSHOT
 
 You can find the code for the application in [HelloWorldUI.java](src/main/java/org/vaadin/samples/errormailer/ErrorHandlingUI.java).
 
